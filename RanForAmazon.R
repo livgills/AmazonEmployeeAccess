@@ -39,4 +39,4 @@ kaggle_submission <- amazon_pred %>%
 
 
 ## Write out the file
-vroom_write(x=kaggle_submission, file="./RanForletsgo!.csv", delim=",")
+vroom_write(x=kaggle_submission, file="./RanForletsgooo!.csv", delim=",")
